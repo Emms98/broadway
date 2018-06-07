@@ -29,3 +29,9 @@ p{
   background-image: url("../Images/background.png");
   color: white;
 }
+.footer {
+  text-align: left;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
