@@ -14,3 +14,18 @@ h1 {
 .header p {
   font-size: 18px;
 }
+.process h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+p{
+  font-size: 14px;
+}
+.new-york {
+  background-image: url("../Images/background.png");
+  color: white;
+}
